@@ -1,0 +1,45 @@
+{
+	"class": [
+		{
+			"id": 1,
+			"firstName": "Rotem",
+			"lastName": "Levi",
+			"isMale": false,
+			"notes": [
+				{
+					"id": 1,
+					"to": "Rotem",
+					"from": "Matan",
+					"message": "Hello"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"firstName": "Matan",
+			"lastName": "Levi",
+			"isMale": true,
+			"notes": null
+		},
+		{
+			"id": 1,
+			"firstName": "Yaron",
+			"lastName": "Shender",
+			"isMale": true,
+			"notes": [
+				{
+					"id": 1,
+					"to": "Rotem",
+					"from": "Matan",
+					"message": "Hello"
+				},
+				{
+					"id": 2,
+					"to": "rotem",
+					"from": "yaron",
+					"message": "hi"
+				}
+			]
+		}
+	]
+}
